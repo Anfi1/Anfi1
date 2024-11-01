@@ -1,5 +1,5 @@
 <h3 align="center"><samp> Hi, I'am Anf1👋 </samp></h4> 
-<h1 align="center">FullStack DEV Javascript💻</h1>
+<h1 align="center">FullStack DEV 💻</h1>
 <p align="center"><a href=#><img src="contributions.svg"></a></p> 
 <div align="center">
 
